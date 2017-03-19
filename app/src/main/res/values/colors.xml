@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#01579B</color>
+    <color name="colorPrimaryDark">#01579B</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="textColor">#FFFFFF</color>
+    <color name="menuOne">#03A9F4</color>
+    <color name="menuTwo">#039BE5</color>
+    <color name="menuThree">#0288D1</color>
+    <color name="menuFour">#0277BD</color>
+    <color name="menuFive">#01579B</color>
+    <color name="backgroundColor">#FAFAFA</color>
+    <color name="listDivisorColor">#01579B</color>
+    <color name="black">#000000</color>
+
+</resources>
